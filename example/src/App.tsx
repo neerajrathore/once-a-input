@@ -4,7 +4,7 @@ import { ExampleComponent } from 'once-a-input-npm'
 import 'once-a-input-npm/dist/index.css'
 
 const App = () => {
-  return <ExampleComponent text="Create React Library Example 😄" />
+  return <ExampleComponent />
 }
 
 export default App
